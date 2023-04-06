@@ -11,4 +11,7 @@
  * @Email: solitaryhuan@gmail.com
  * @Date: 2023-04-04 10:53:07
  * @LastEditTime: 2023-04-04 15:24:38
- * @Requare:需要windows的环境变脸path中含有quartus和modelsim
+ * @Requare:需要windows的环境变量path中含有quartus和modelsim
+ *          quartus版本为Quartus (Quartus Prime 18.1) Standard Edition
+ *          modelsim版本为ModelSim - Intel FPGA Starter Edition 10.5b (Quartus Prime 18.1)
+ *          FPGA板卡型号为EP4CE6F17C
