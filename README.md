@@ -15,3 +15,7 @@
  *          quartus版本为Quartus (Quartus Prime 18.1) Standard Edition
  *          modelsim版本为ModelSim - Intel FPGA Starter Edition 10.5b (Quartus Prime 18.1)
  *          FPGA板卡型号为EP4CE6F17C
+其中的exampl文件夹可以包含doc\ip\rtl\tb文件夹  （exampl文件夹是为了便于复制）
+而create_prj.tcl  make_prj.bat 两个文件均在prj文件夹下 （creat_prj.tcl文件夹是对quartus进行操作 make_prj.bat则是使用批处理执行tcl脚本）
+start.do 和 点我仿真.bat 位于tb文件夹下。（这两个用于仿真使用）
+最后创建你的工程文件.bat 和example在同一目录下。
